@@ -162,3 +162,4 @@ if reading ==s:
 if reading ==h:
     print futureFortune['Health']
 print "+++++++++++++++++++++++++++++++++++++++++++++"
+print "++++++++++++++++++++++++++++++++++b3nG+++++++"
